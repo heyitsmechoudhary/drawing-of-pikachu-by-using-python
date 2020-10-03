@@ -1,1 +1,1 @@
-# drawing-of-doremon-by-using-python
+# drawing-of-pikachu-by-using-python
